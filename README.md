@@ -22,4 +22,8 @@ Audio data can be viewed as a form of *__time series data__* where data points a
 
 ## Model Building
 
-Work in progress...
+*__Work in progress...__*
+
+Here's a snippet of chaotic music the model has produced so far 
+
+https://user-images.githubusercontent.com/64684527/201650097-1593b0ca-cd20-4fe8-b87b-49abea091eb1.mov
