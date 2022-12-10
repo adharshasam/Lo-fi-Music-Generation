@@ -1,6 +1,6 @@
 # Lo-fi-Music-Generation
 
-The copyright-free lo-fi audio files used in this project were uploaded by HoliznaCC0 on Free Music Archive.
+Copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive were used as training data for this project.
 
 *__Links to his work!__*
 
