@@ -1,6 +1,6 @@
 # Lo-fi-Music-Generation
 
-Train data: copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive
+*__Train data:__* copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive
 
 *__Links to his work!__*
 
