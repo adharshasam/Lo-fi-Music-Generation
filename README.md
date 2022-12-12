@@ -1,6 +1,6 @@
 # Lo-fi-Music-Generation
 
-Copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive were used as training data for this project.
+Train data: copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive
 
 *__Links to his work!__*
 
@@ -14,16 +14,15 @@ Copyright-free lo-fi audio files uploaded by HoliznaCC0 on Free Music Archive we
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/64684527/197673252-8b4c7825-c4ab-4516-8db9-9fdbd78395fe.png">
 
-I converted the audio files in .mp3 format to MIDI files to train the *__Recurrent Neural Network__*. 
-
 ## Why RNN?
 
-Audio data can be viewed as a form of *__time series data__* where data points are plotted in a sequence with time values. This is evident from the *__spectrogram__* above which is a plot of frequency with respect to time.
+Music is *__sequential time series data__* where data points are plotted in a sequence with time values. This is evident from the *__spectrogram__* above which is a plot of audio frequencies with respect to time. Hence, we can model audio data using RNN which learns the sequential characteristics and patterns of music to predict the next musical note.
 
-## Model Building
+## Model-Building using Tensorflow
 
-*__Work in progress...__*
+The MP3 audio files were converted into the desired format of MIDI files to train the *__Recurrent Neural Network__*.
 
-Here's a snippet of chaotic music the model has produced so far:
+__Reference__: Music generation tutorial on [Tensorflow Github Repository](github.com/tensorflow/tensorflow) 
 
-https://user-images.githubusercontent.com/64684527/201650097-1593b0ca-cd20-4fe8-b87b-49abea091eb1.mov
+## Final Product
+
