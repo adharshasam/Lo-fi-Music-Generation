@@ -1,0 +1,1 @@
+AI-generated timelapse of image generated from text prompts was created with VQGAN and CLIP: https://colab.research.google.com/drive/1_4Jl0a7WIJeqy5LTjPJfZOwMZopG5C-W?usp=sharing#scrollTo=Y0e8pHyJmi7s
