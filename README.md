@@ -20,7 +20,7 @@ Music is *__sequential time series data__* where data points are plotted in a se
 
 ## Model-Building using Tensorflow
 
-The MP3 audio files were converted into the desired format of MIDI files to train the *__Recurrent Neural Network__*.
+The MP3 audio files were converted into the desired format of [MIDI files](https://github.com/adharshasam/Lo-fi-Music-Generation/tree/main/midi%20files) to train the *__Recurrent Neural Network__*.
 
 *__Reference__*: Music generation tutorial on [Tensorflow Github Repository](github.com/tensorflow/tensorflow) 
 
