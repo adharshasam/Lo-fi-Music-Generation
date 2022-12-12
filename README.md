@@ -26,4 +26,4 @@ The MP3 audio files were converted into the desired format of MIDI files to trai
 
 ## Final Product
 
-Click [here](https://github.com/adharshasam/Lo-fi-Music-Generation/tree/main/final%20product) to view the "music video" :P
+Click [here](https://github.com/adharshasam/Lo-fi-Music-Generation/tree/main/final%20product) to view the "music video" 🎵
