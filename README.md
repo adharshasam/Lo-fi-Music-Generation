@@ -24,6 +24,8 @@ The MP3 audio files were converted into the desired format of [MIDI files](https
 
 *__Reference__*: Music generation tutorial on [Tensorflow Github Repository](github.com/tensorflow/tensorflow) 
 
+The script used to generate music for this project can be accessed [here](https://github.com/adharshasam/Lo-fi-Music-Generation/blob/main/music%20generation.ipynb) 🎵 
+
 ## Final Product
 
-Click [here](https://github.com/adharshasam/Lo-fi-Music-Generation/tree/main/final%20product) to view the "music video" 🎵
+Click [here](https://github.com/adharshasam/Lo-fi-Music-Generation/tree/main/final%20product) to view the "music video" 
